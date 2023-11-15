@@ -1,3 +1,4 @@
 # aryan-first
-this is my first git repository.\n
+this is my first git repository.
+<br>
 AUTHOR = aryan tiwari
